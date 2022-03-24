@@ -23,7 +23,7 @@ function uploadMuhFile(filePath: string): Promise<any> {
     })
     .catch((error: any) => {
       if (isDebug) console.error(error)
-      return error
+      throw error
     })
 }
 
