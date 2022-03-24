@@ -21,7 +21,7 @@
     "@actions/core": "^1.2.3",
     "@actions/github": "^2.1.1",
     "@types/node": "^13.9.3",
-    "dropbox": "^4.0.30",
+    "dropbox": "^10.26.1",
     "glob": "^7.1.6"
   },
   "devDependencies": {
